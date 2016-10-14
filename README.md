@@ -1,6 +1,6 @@
 # ShootVideo
 
-
+This example is similar to the WeChat to shoot a small video function. Ten seconds of shooting time, after the completion of the shooting, can automatically cycle playback video
 
 
 ![image](https://github.com/Hebin320/ImageSave/blob/master/img/20.gif)
